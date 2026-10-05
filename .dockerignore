@@ -4,3 +4,5 @@
 .bin
 *.db
 /app
+.fleet-deploy.log
+.venv
